@@ -1,7 +1,7 @@
 # Mustafa Özdemir YZUP İleri Python Mini Proje
 
 ## Çalıştırmadan Önce
-streamlit
+streamlit\n
 pandas
 numpy
 seaborn
