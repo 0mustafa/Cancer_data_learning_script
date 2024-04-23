@@ -5,6 +5,7 @@ Bu projede `Breast Cancer data` veri seti kullanılarak `KNN (K Nearest Neighbor
 
 ## Uyarı!
 Bu script sadece `Breast Cancer Wisconsin (Diagnostic)` Data Set için tasarlanmıştır.
+<br/>
 <a href="https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data">Kaggle Link</a>
 <br/>
 <br/>
