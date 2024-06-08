@@ -1,5 +1,5 @@
 # Mustafa Özdemir YZUP İleri Python Mini Proje
-Bu projede `Breast Cancer data` veri seti kullanılarak `KNN (K Nearest Neighbor)` `SVM (Support Vector Machine)` `Naive Bayes` algoritmalarıyla eğitim yapılmıştır. Eğitimde `Gridsearch` kullanılarak en optimum parametreler kullanılmıştır.
+Bu projede `Breast Cancer data` veri seti kullanılarak `KNN (K Nearest Neighbor)` `SVM (Support Vector Machine)` `Naive Bayes` algoritmalarıyla eğitim yapılmıştır. Eğitimde `Gridsearch` kullanılarak en optimum parametreler bulunmuştur.
 <br/>
 <br/>
 
