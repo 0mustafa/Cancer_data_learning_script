@@ -17,6 +17,7 @@ class App:
         self.Init_Streamlit_Page()
 
     def Init_Streamlit_Page(self):
+        st.set_page_config(page_title="Breast Cancer Script")
         st.title('YZUP Python Project')
         st.markdown("---")
 
@@ -43,6 +44,7 @@ class App:
             self.script.data_preprocess(self.script.dataframe)
             st.write("Shape of dataset:", self.script.X.shape)
             st.write("Number of classes:", len(np.unique(self.script.y)))
+            st.write(f"Classes= M (Malignant): {np.sum(self.script.y == 1)}, B (Benign): {np.sum(self.script.y == 0)}")
 
             # korelasyon matrisi ve scatter grafigi cizdiriliyor
             st.write("\n")
